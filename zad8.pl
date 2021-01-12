@@ -4,3 +4,4 @@ append2([],L,L).
 % ?- append2(X,[3,4],[2,3,4]).
 % X = [2]
 % nie mam pojecia dlaczego
+% a dobra, tutaj jest link https://inf.ug.edu.pl/~schwarzw/zadania/ProgLogZadanie8.pdf
